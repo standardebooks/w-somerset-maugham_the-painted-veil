@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil</dc:identifier>
+		<dc:identifier id="uid">https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil</dc:identifier>
 		<dc:date>2025-07-13T22:32:04Z</dc:date>
 		<meta property="dcterms:modified">2025-07-13T22:32:04Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
@@ -69,7 +69,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Painted_Veil_(novel)</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/standard-ebooks_w-somerset-maugham_the-painted-veil</meta>
+		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-somerset-maugham_the-painted-veil</meta>
 		<dc:creator id="author">W. Somerset Maugham</dc:creator>
 		<meta property="file-as" refines="#author">Maugham, W. Somerset</meta>
 		<meta property="se:name.person.full-name" refines="#author">William Somerset Maugham</meta>
