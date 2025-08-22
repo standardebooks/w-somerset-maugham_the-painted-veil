@@ -85,11 +85,6 @@ footer{
 /* End verse */
 
 /* Style for non-English blocks (verse) */
-body [xml|lang]{
+blockquote[xml|lang]{
 	font-style: italic;
-}
-
-/* Book-local chapter header style, reflecting short chapters. */
-section[epub|type~="chapter"] > h2{
-	margin: 3em 0 1.5em 0;
 }
