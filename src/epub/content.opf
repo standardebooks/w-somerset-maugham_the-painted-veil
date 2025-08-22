@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/w-somerset-maugham/the-painted-veil</dc:identifier>
-		<dc:date>2025-07-13T22:32:04Z</dc:date>
-		<meta property="dcterms:modified">2025-07-13T22:32:04Z</meta>
+		<dc:date>2025-08-23T00:20:50Z</dc:date>
+		<meta property="dcterms:modified">2025-08-23T00:20:50Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -56,8 +56,8 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A superficial young woman is found out in an affair by her husband, who then forces her to accompany him on a mission of great risk.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;In Hong Kong in the 1920s, beautiful but superficial Kitty Fane has arrived accompanying her bacteriologist husband, the quiet and honorable Walter Fane. Kitty begins an affair, but Walter learns of her infidelity, and forces her to accompany him on a charitable mission into the heart of cholera epidemic in mainland China—a mission of potentially suicidal risk. The people and events they encounter there force them to confront their own deepest selves, changing them both forever.&lt;/p&gt;
-			&lt;p&gt;The novel was successful in its time, and has proven one of &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;Maugham’s&lt;/a&gt; more enduring. Although deeply introspective, it enjoyed a stage adaptation and three commercial film adaptations, including one in the 21st century.&lt;/p&gt;
+			&lt;p&gt;Beautiful but superficial Kitty Fane arrives in 1920s Hong Kong, accompanying her bacteriologist husband, the quiet and honorable Walter Fane. Kitty begins an affair, but Walter learns of her infidelity, and forces her to accompany him on a charitable mission into the heart of a cholera epidemic in mainland China—a mission of potentially deadly risk. The people and events they encounter there force them to confront their own deepest selves, changing them both forever.&lt;/p&gt;
+			&lt;p&gt;The novel was successful in its time, and has proven to be one of &lt;a href="https://standardebooks.org/ebooks/w-somerset-maugham"&gt;Maugham’s&lt;/a&gt; most enduring. Although deeply introspective, it enjoyed a stage adaptation and three commercial film adaptations, including one in the 21st century.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/64682</dc:source>
@@ -66,8 +66,8 @@
 		<!-- Preface -->
 		<dc:source>https://archive.org/details/paintedveil0000unse_v1t6</dc:source>
 		<meta property="se:production-notes">This edition follows later print editions and Maugham’s apparent intent in restoring the fictional “Tching-Yen” to the real colony’s name, “Hong Kong” in modern spelling.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">74089</meta>
+		<meta property="se:reading-ease.flesch">82.44</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Painted_Veil_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-somerset-maugham_the-painted-veil</meta>
 		<dc:creator id="author">W. Somerset Maugham</dc:creator>
@@ -94,6 +94,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">ann</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
